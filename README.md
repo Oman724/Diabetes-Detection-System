@@ -46,7 +46,7 @@ Features
 
 
 
-Installation & Setup
+Installation & Setup <br>
 a) Clone this repository:<br>
 git clone https://github.com/your-username/diabetes-detection-system.git <br>
 b) g++ DiabetesDetectionSystem.cpp -o DiabetesSystem -lbgi -lgdi32 -lcomdlg32 -luuid -loleaut32 -lole32 <br>
