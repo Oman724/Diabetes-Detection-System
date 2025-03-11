@@ -48,9 +48,9 @@ Features
 
 Installation & Setup <br>
 a) Clone this repository:<br>
-git clone https://github.com/your-username/diabetes-detection-system.git <br>
-b) Compile the program using a compatible C++ compiler. Example for Turbo C++: <br>
-g++ DiabetesDetectionSystem.cpp -o DiabetesSystem -lbgi -lgdi32 -lcomdlg32 -luuid -loleaut32 -lole32 <br>
+git clone https://github.com/your-username/diabetes-detection-system.git <br><br>
+b) Compile the program using a compatible C++ compiler. Example for Turbo C++: <br><br>
+g++ DiabetesDetectionSystem.cpp -o DiabetesSystem -lbgi -lgdi32 -lcomdlg32 -luuid -loleaut32 -lole32 <br><br>
 c) Run the executable: <br>
 ./DiabetesSystem
 
