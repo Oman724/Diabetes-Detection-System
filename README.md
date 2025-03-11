@@ -3,7 +3,7 @@ Overview
 
 The Diabetes Detection System is a C++ application that helps users assess their risk of diabetes based on a series of health-related questions. It also calculates BMI and provides basic health insights. The program utilizes graphical elements and console-based interactions to create an engaging user experience.
 
-#Features
+Features
 - User Data Input: Collects user's name, age, gender, weight, and height.
 
 - BMI Calculation: Computes Body Mass Index (BMI) and classifies the user as underweight, healthy, overweight, or obese.
@@ -22,13 +22,13 @@ The Diabetes Detection System is a C++ application that helps users assess their
 
 
 
-#Installation & Setup
+Installation & Setup
 a) Clone this repository:
-git clone https://github.com/your-username/diabetes-detection-system.git
-b) g++ DiabetesDetectionSystem.cpp -o DiabetesSystem -lbgi -lgdi32 -lcomdlg32 -luuid -loleaut32 -lole32
+git clone https://github.com/your-username/diabetes-detection-system.git <br>
+b) g++ DiabetesDetectionSystem.cpp -o DiabetesSystem -lbgi -lgdi32 -lcomdlg32 -luuid -loleaut32 -lole32 <br>
 c) ./DiabetesSystem
 
-# Usage
+Usage
 - The program starts with a welcome screen.
 
 - Users enter their personal details.
@@ -39,6 +39,6 @@ c) ./DiabetesSystem
 
 - Based on responses, the program provides a risk analysis.
 
-# Contributing
+Contributing
 
 Contributions are welcome! Please fork the repository and submit a pull request.
