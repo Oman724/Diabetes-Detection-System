@@ -15,7 +15,31 @@ Features
 - Menu Navigation: Allows users to navigate through different sections like checkups, doctor recommendations, medicine, diet, and workouts.
 
 #Screenshots
+![Image](https://github.com/user-attachments/assets/2ca68835-ce46-43d5-82f8-9e17f964ee9c)
 
+![Image](https://github.com/user-attachments/assets/67073ecc-300f-46df-9fa7-e9bdfc3e68f8)
+
+![Image](https://github.com/user-attachments/assets/2ba8f352-1d76-4d8c-8f5b-cb751aab6837)
+
+![Image](https://github.com/user-attachments/assets/1768d8c4-76fd-4699-b8b3-a1e87fe6dc75)
+
+![Image](https://github.com/user-attachments/assets/077bb6a5-f73e-49cd-88cd-f69370485fc9)
+
+![Image](https://github.com/user-attachments/assets/c1fc837f-f233-46b5-936e-a65e528f39d5)
+
+![Image](https://github.com/user-attachments/assets/382abe9a-1c5d-4716-a27b-e459b5a9a785)
+
+![Image](https://github.com/user-attachments/assets/61863430-9c06-4b61-8ae2-b3e069271af8)
+
+![Image](https://github.com/user-attachments/assets/1654b833-7d26-45d9-b4d7-4c1c7c045948)
+
+![Image](https://github.com/user-attachments/assets/a07c3312-2d85-4fcf-adb4-dd19df540cb9)
+
+![Image](https://github.com/user-attachments/assets/25188bb4-5176-497c-aac0-e0dee45ba119)
+
+![Image](https://github.com/user-attachments/assets/e9c8e6b1-16c8-40b3-8906-d926909a3d35)
+
+![Image](https://github.com/user-attachments/assets/dbf989b3-a21d-4320-82ec-b5585af2aa1a)
 
 
 
